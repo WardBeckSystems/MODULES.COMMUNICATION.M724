@@ -22,7 +22,7 @@ Wiki page: [M724](../../../../PAGES/M724.md)
 - **Dots (junctions):** 13
 - **Wiring (first pass):** 305 connected wire groups from 2,361 runs, 6 dotted junctions
 
-Every curve, box, word and wire group: [19xx - M724 - 724-02-001 - INTERCOM MATRIX AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M724%20-%20724-02-001%20-%20INTERCOM%20MATRIX%20AMPLIFIER%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M724 - 724-02-001 - INTERCOM MATRIX AMPLIFIER SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M724 - 724-02-001 - INTERCOM MATRIX AMPLIFIER SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M724%20-%20724-02-001%20-%20INTERCOM%20MATRIX%20AMPLIFIER%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M724 - 724-02-001 - INTERCOM MATRIX AMPLIFIER SCHEMATIC (traced).dxf`).
 
 ## Full text
 

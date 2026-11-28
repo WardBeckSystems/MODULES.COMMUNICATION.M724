@@ -1,5 +1,5 @@
 # 19xx - M724 - 724-02-001 - INTERCOM MATRIX AMPLIFIER SCHEMATIC.jpg
-Wiki page: [M724](../../../../PAGES/M724.md)
+Wiki page: [M724](../)
 
 
 - **Year:** unknown (unknown)

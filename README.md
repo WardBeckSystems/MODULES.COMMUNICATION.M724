@@ -1,6 +1,6 @@
 # M724 Intercom Crosspoint · Communication
 
-Ward-Beck Systems M724, 1975|8. Wiki page: [M724 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M724.html)
+Ward-Beck Systems M724, 1975|8. Wiki page: [M724 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M724-Intercom-Crosspoint/)
 
 | Folder | What is in it | Files |
 |---|---|---|
